@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+<a href="./1.%20Form-Validator/index.html">Project 1</a>
+
 You can use the [editor on GitHub](https://github.com/kyle-quinlan/vanilla-js-projects/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
